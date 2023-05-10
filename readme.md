@@ -11,7 +11,7 @@ Nada mais é do que um jogo de ping pong criado inteiramente com JS e rodado do 
 # 📷 Versão Web
 
 <div align="center" >
- <img src="https://user-images.githubusercontent.com/123023440/235527559-fae9165c-fa6e-4a9b-991f-bd9393d6a8a0.gif">
+ <img src="https://github.com/EoLima/Projeto_PingPong/assets/123023440/ced0405b-9384-4cd7-b784-b1d844975bba">
 </div>
 
 ## 🧑🏾‍💻 Ferramentas Utilizadas
@@ -24,7 +24,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📂Acesso ao Projeto
 
-Você pode acessar o projeto <a href="https://eolima.github.io/Projeto_PaginaMario/" target="_blank" > aqui </a>.
+Você pode acessar o projeto <a href="https://eolima.github.io/Projeto_PingPong/" target="_blank" > aqui</a>.
 
 ### Contate-me
 
